@@ -1,11 +1,9 @@
 package com.truant.myGames;
 
 import com.truant.myGames.game.GameRunner;
-import com.truant.myGames.game.MarioGame;
 import com.truant.myGames.game.PackManGame;
-import com.truant.myGames.game.SuperContraGame;
 
-public class AppGamingJava {
+public class App01GamingJava {
     public static void main(String[] args) {
         //var game = new MarioGame();
         //var game = new SuperContraGame();
